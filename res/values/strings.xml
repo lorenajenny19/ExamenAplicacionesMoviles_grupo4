@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Academia de Enseñanza</string>
+    <string name="BT_1">Cursos </string>
+    <string name="BT_2"> Quines Somos? </string>
+    <string name="BT_3">Contactos </string>
+
+
+    <string name="BT_4">REGRESAR </string>
+
+    <string name="tx_1">Academia de Enseñanza </string>
+    <string name="tx_2"> Escolar J y K </string>
+
+
+    <string name="txt_codigo">Código de Materia </string>
+    <string name="txt_descripcion">Descripción </string>
+    <string name="txt_precio">Pago por clase  </string>
+    <string name="BotonRegistrar">Registrar a la clase </string>
+    <string name="BotonBuscar">Buscar clase </string>
+    <string name="BotonEliminar">Eliminar clase </string>
+    <string name="BotonModificar">Modificar clase </string>
+
+    <string name="BBB">APLICACIONES MOVILES NRC:4105 </string>
+
+
+
+
+</resources>
